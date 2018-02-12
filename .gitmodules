@@ -1,0 +1,6 @@
+[submodule "rime_simp"]
+	path = rime_simp
+	url = https://github.com/zhaozg/rime_simp.git
+[submodule "rime_lua"]
+	path = rime_lua
+	url = https://github.com/zhaozg/rime_lua.git
